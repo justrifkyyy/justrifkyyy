@@ -8,13 +8,7 @@
 ### About me
 
 - 👨‍💻 It's Just Campus Account
-- ✍️ I write a newsle
-- 📹 YouTube Channel [*getsetpython*](https://www.youtube.com/getsetpython)  
-- 🔧 Technologies I work with: C++, Java, Python, AWS and more
-- ⚡ Fun fact: I love exploring new tech and solving challenging problems!
-
-
-### Languages and Tools
+- ✍️ I write just for Assigment
 
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>  

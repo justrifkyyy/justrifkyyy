@@ -1,6 +1,6 @@
-<h1 align="center">Hi there! 🚀 
+<h1 align="center">Hi Browww Its Me! 🚀 
   
-   I’m Muhammad Rifky Saputra Scania 😄
+   Muhammad Rifky Saputra Scania 😄
 </h1>
 
 

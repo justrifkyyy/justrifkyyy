@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://laravel.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="48" height="48"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="laravel" width="48" height="48"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
@@ -58,6 +58,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="48" height="48"/>
   </a>
 </p>
+
 
 ---
 

@@ -50,9 +50,8 @@
 
 | | |
 |---|---|
-| 🏛️ **Education** | B.Eng. Computer Engineering, Universitas Muslim Indonesia (semester 6) |
+| 🏛️ **Education** | B.Eng. Computer Engineering, Universitas Muslim Indonesia |
 | 🧪 **Lab Assistant** | Faculty of Computer Science (FIKOM), UMI |
-| 🏅 **Scholarship** | Djarum Beasiswa Plus, Batch 41 |
 | 📍 **Location** | Makassar, South Sulawesi, Indonesia |
 
 </div>

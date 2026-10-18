@@ -13,7 +13,6 @@
   <p width="650px">
     👋 <b>Hi, I'm Rifky!</b><br>
     <b>Computer Engineering student at Universitas Muslim Indonesia (UMI)</b>, Makassar.<br>
-    <b>Djarum Beasiswa Plus 41</b> awardee and <b>Laboratory Assistant at FIKOM UMI</b>.<br>
     Currently shifting my focus from software development toward <b>data science and academic research</b>:<br>
     turning data into evidence, and evidence into knowledge.
   </p>

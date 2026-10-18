@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=Muh.%20Rifky%20Saputra&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Beswan%20Djarum%2041%20%7C%20Data%20%26%20Research%20Enthusiast%20%7C%20Lab%20Assistant%20FIKOM%20UMI&descAlignY=62&descSize=17" width="100%" />
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=4FC3F7&center=true&vCenter=true&width=720&height=45&lines=%F0%9F%93%8A+Turning+data+into+evidence;%F0%9F%A4%96+Machine+Learning+%26+Data+Science+Enthusiast;%F0%9F%94%AC+Aspiring+Researcher+%26+Academic+Writer;%F0%9F%A7%AA+Lab+Assistant+%40+FIKOM+UMI;%F0%9F%8E%93+Computer+Engineering+Student" />
 </div>
 
@@ -92,36 +88,6 @@
 
 <br>
 
-<h2 align="center">📚 Featured Work</h2>
-
-<div align="center">
-
-| Type | Title | Status |
-|---|---|---|
-| 📄 Paper | _Judul paper / jurnal kamu di sini_ | _Draft / Submitted / Published_ |
-| 🔬 Research Project | _Judul proyek riset / penelitian kampus_ | _Ongoing_ |
-| 📊 Data Project | _Analisis data / model ML yang pernah kamu buat_ | _Completed_ |
-| 🎤 Presentation | _Seminar / konferensi / lomba karya ilmiah_ | _Completed_ |
-
-</div>
-
-<!-- Isi dengan karya nyata kamu, atau hapus bagian ini dulu. -->
-
-<br>
-
-<h2 align="center">🌱 Currently</h2>
-
-<div align="center">
-  <p>
-    🔭 Exploring <b>data analysis &amp; machine learning</b> for real-world problems<br>
-    📖 Learning <b>research methodology</b> and scientific writing<br>
-    🧑‍🏫 Assisting students in the <b>laboratory</b> at FIKOM UMI<br>
-    🤝 Open to <b>research collaboration</b>, academic discussion, and mentoring
-  </p>
-</div>
-
-<br>
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
@@ -155,5 +121,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer" width="100%" />
 </div>

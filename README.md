@@ -1,9 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Muh.%20Rifky%20Saputra&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Beswan%20Djarum%2041%20%7C%20Data%20%26%20Research%20Enthusiast%20%7C%20Lab%20Assistant%20at%20FIKOM%20UMI&descAlignY=58&descSize=17" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=Muh.%20Rifky%20Saputra&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Beswan%20Djarum%2041%20%7C%20Data%20%26%20Research%20Enthusiast%20%7C%20Lab%20Assistant%20FIKOM%20UMI&descAlignY=62&descSize=17" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Data+Science+%26+Machine+Learning+Enthusiast;Aspiring+Researcher;Lab+Assistant+%7C+Academic+Mentor" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=4FC3F7&center=true&vCenter=true&width=720&height=45&lines=%F0%9F%93%8A+Turning+data+into+evidence;%F0%9F%A4%96+Machine+Learning+%26+Data+Science+Enthusiast;%F0%9F%94%AC+Aspiring+Researcher+%26+Academic+Writer;%F0%9F%A7%AA+Lab+Assistant+%40+FIKOM+UMI;%F0%9F%8E%93+Computer+Engineering+Student" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Djarum%20Beasiswa%20Plus-Batch%2041-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Universitas%20Muslim%20Indonesia-Semester%206-2c5364?style=for-the-badge" />
 </div>
 
 <br>
@@ -20,19 +25,27 @@
 
 <br>
 
+<h2 align="center">⚙️ How I Work with Data</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/justrifkyyy/justrifkyyy/main/assets/research-pipeline.svg" width="100%" alt="Research pipeline animation" />
+</div>
+
+<br>
+
 <h2 align="center">🔬 Research Interests</h2>
 
 <div align="center">
   <table border="0">
     <tr>
-      <td align="center" width="220">📈<br><b>Data Science</b><br><sub>Exploratory analysis, statistical modeling, data visualization</sub></td>
-      <td align="center" width="220">🤖<br><b>Machine Learning</b><br><sub>Supervised learning, model evaluation, applied AI</sub></td>
-      <td align="center" width="220">🌐<br><b>Intelligent Systems</b><br><sub>Decision support systems, IoT &amp; embedded intelligence</sub></td>
+      <td align="center" width="230">📈<br><b>Data Science</b><br><sub>Exploratory analysis, statistical modeling, data visualization</sub></td>
+      <td align="center" width="230">🤖<br><b>Machine Learning</b><br><sub>Supervised learning, model evaluation, applied AI</sub></td>
+      <td align="center" width="230">🌐<br><b>Intelligent Systems</b><br><sub>Decision support systems, IoT &amp; embedded intelligence</sub></td>
     </tr>
   </table>
 </div>
 
-<!-- Tip: ganti 3 kolom di atas dengan topik riset kamu yang sebenarnya, misal: NLP, Computer Vision, Educational Data Mining, dst. -->
+<!-- Ganti 3 kolom di atas dengan topik riset kamu yang sebenarnya, misal: NLP, Computer Vision, Educational Data Mining. -->
 
 <br>
 
@@ -42,7 +55,7 @@
 
 | | |
 |---|---|
-| 🏛️ **Education** | B.Eng. Computer Engineering, Universitas Muslim Indonesia (in progress, semester 6) |
+| 🏛️ **Education** | B.Eng. Computer Engineering, Universitas Muslim Indonesia (semester 6) |
 | 🧪 **Lab Assistant** | Faculty of Computer Science (FIKOM), UMI |
 | 🏅 **Scholarship** | Djarum Beasiswa Plus, Batch 41 |
 | 📍 **Location** | Makassar, South Sulawesi, Indonesia |
@@ -54,26 +67,27 @@
 <h2 align="center">🧰 Research &amp; Data Toolkit</h2>
 
 <div align="center">
-  <p><b>Languages</b></p>
-  <img src="https://skillicons.dev/icons?i=py,r,js,php,md,latex&perline=8" />
+  <img src="https://raw.githubusercontent.com/justrifkyyy/justrifkyyy/main/assets/skills-marquee.svg" width="100%" alt="Skills marquee" />
 
-  <br><br>
+  <p><b>Languages</b></p>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="python" title="python"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48" height="48" alt="r" title="r"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="48" height="48" alt="latex" title="latex"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="javascript" title="javascript"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="php" title="php"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="bash" title="bash"/>
+  </p>
 
   <p><b>Data Science &amp; Machine Learning</b></p>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,tensorflow,pytorch&perline=8" />
-  <br>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-
-  <br><br>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="pandas" title="pandas"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="numpy" title="numpy"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="matplotlib" title="matplotlib"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="scikitlearn" title="scikitlearn"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="tensorflow" title="tensorflow"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="pytorch" title="pytorch"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="jupyter" title="jupyter"/>
+  </p>
 
   <p><b>Databases &amp; Tools</b></p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,docker,linux&perline=8" />
-  <br>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="mysql" title="mysql"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="postgresql" title="postgresql"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="git" title="git"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="github" title="github"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="vscode" title="vscode"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="docker" title="docker"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="linux" title="linux"/>
+  </p>
+
   <img src="https://img.shields.io/badge/Zotero-CC2936?style=for-the-badge&logo=zotero&logoColor=white" />
   <img src="https://img.shields.io/badge/Mendeley-B8312F?style=for-the-badge&logo=mendeley&logoColor=white" />
   <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </div>
 
 <br>
@@ -91,7 +105,7 @@
 
 </div>
 
-<!-- Isi tabel ini dengan karya nyata kamu. Kalau belum ada, hapus bagian ini dulu atau ganti jadi "Currently working on: ..." -->
+<!-- Isi dengan karya nyata kamu, atau hapus bagian ini dulu. -->
 
 <br>
 
@@ -111,22 +125,12 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://github.com/justrifkyyy">
-          <img src="https://streak-stats.demolab.com?user=justrifkyyy&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=justrifkyyy&theme=tokyonight" />
-      </td>
-    </tr>
-  </table>
-
+  <img src="https://streak-stats.demolab.com?user=justrifkyyy&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=justrifkyyy&theme=tokyonight" />
   <br>
-
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justrifkyyy&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=justrifkyyy&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" width="100%" />
 </div>
 
 <br>
@@ -134,33 +138,20 @@
 <h2 align="center">📫 Connect With Me</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/muh-rifky-saputra-scania" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rifky020504@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/justrifkyy_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <!-- Aktifkan kalau sudah punya, lalu ganti USER_ID / ORCID_ID -->
-  <!--
-  <a href="https://scholar.google.com/citations?user=USER_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
-  </a>
-  <a href="https://orcid.org/ORCID_ID" target="_blank">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
-  </a>
-  <a href="https://www.researchgate.net/profile/USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/muh-rifky-saputra-scania" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rifky020504@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/justrifkyy_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <!-- Aktifkan kalau sudah punya (ganti USER_ID / ORCID_ID / USERNAME)
+  <a href="https://scholar.google.com/citations?user=USER_ID"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
+  <a href="https://orcid.org/ORCID_ID"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
+  <a href="https://www.researchgate.net/profile/USERNAME"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" /></a>
   -->
 </div>
 
 <br>
 
 <div align="center">
-  <i>"Data is just a number until it's turned into understanding."</i>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 <div align="center">

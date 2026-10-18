@@ -94,7 +94,6 @@
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justrifkyyy&theme=tokyonight" />
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=justrifkyyy&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" width="100%" />
 </div>
 
 <br>
@@ -105,11 +104,6 @@
   <a href="https://www.linkedin.com/in/muh-rifky-saputra-scania" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:rifky020504@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://instagram.com/justrifkyy_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <!-- Aktifkan kalau sudah punya (ganti USER_ID / ORCID_ID / USERNAME)
-  <a href="https://scholar.google.com/citations?user=USER_ID"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
-  <a href="https://orcid.org/ORCID_ID"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
-  <a href="https://www.researchgate.net/profile/USERNAME"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" /></a>
-  -->
 </div>
 
 <br>
